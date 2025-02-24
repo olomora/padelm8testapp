@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "PadelM8TestApp",
   "resources": {
-    "hash": "sha256-ej/dfrIg/u1sDwvfSa4xPaWrY+Mozv/vE4YJwOwjhQA=",
+    "hash": "sha256-nddrz3SYyugwxWl7kLI4frJgUPJ//NgbY61ecxj2BwM=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.esv38zo127.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.Forms.aq1ir8e8pl.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
@@ -32,7 +32,7 @@
       "Microsoft.Win32.Registry.krtg4e9rjb.wasm": "Microsoft.Win32.Registry.wasm",
       "mscorlib.l6md3pggqy.wasm": "mscorlib.wasm",
       "netstandard.lij9csiyuf.wasm": "netstandard.wasm",
-      "PadelM8TestApp.gstdzk1dai.wasm": "PadelM8TestApp.wasm",
+      "PadelM8TestApp.7fg5lz8tqp.wasm": "PadelM8TestApp.wasm",
       "System.AppContext.ch56s52ual.wasm": "System.AppContext.wasm",
       "System.Buffers.tlm3i6pt76.wasm": "System.Buffers.wasm",
       "System.Collections.Concurrent.jadgrn67lq.wasm": "System.Collections.Concurrent.wasm",
@@ -196,21 +196,21 @@
       "System.Xml.XPath.XDocument.vwdo924nyz.wasm": "System.Xml.XPath.XDocument.wasm",
       "WindowsBase.ovqw333kan.wasm": "WindowsBase.wasm",
       "dotnet.js": "dotnet.js",
-      "dotnet.native.8o8n7iomrf.js": "dotnet.native.js",
-      "dotnet.native.aep4lch3d1.wasm": "dotnet.native.wasm",
-      "dotnet.runtime.rubq0v1yiy.js": "dotnet.runtime.js",
+      "dotnet.native.8bti36lthm.js": "dotnet.native.js",
+      "dotnet.native.tr0cyonrwt.wasm": "dotnet.native.wasm",
+      "dotnet.runtime.tsg4gsv2hg.js": "dotnet.runtime.js",
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat"
     },
     "jsModuleNative": {
-      "dotnet.native.8o8n7iomrf.js": "sha256-WIUiy49hHQ3kOAtRdCtUzm3Yg5BnOqCC+Q+kri9Fi1g="
+      "dotnet.native.8bti36lthm.js": "sha256-HFADmT26AarHu4tMjFaTPxINmQjBJGtdPN+CKjtNMFE="
     },
     "jsModuleRuntime": {
-      "dotnet.runtime.rubq0v1yiy.js": "sha256-gypqZnsxxUh4y4EJmawvOCaX4hoTaesVGwIgWXwZcNw="
+      "dotnet.runtime.tsg4gsv2hg.js": "sha256-82FoDmY+LsehdN2u8aSGEutGEKXJHcYaSX/3zptbsCw="
     },
     "wasmNative": {
-      "dotnet.native.aep4lch3d1.wasm": "sha256-bvHGVH9zAMOjdIvgvRKP4Bg793vWpedEYSWg32uUr3o="
+      "dotnet.native.tr0cyonrwt.wasm": "sha256-F3/BArijJUydqmwcdWeW3LYyYHBRSu2+pyy8GL1jTV0="
     },
     "icu": {
       "icudt_CJK.tjcz0u77k5.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -251,7 +251,7 @@
       "Microsoft.Win32.Registry.krtg4e9rjb.wasm": "sha256-sMbuu2+9aoI7Hg1VxqD7awy9/80c7+mSA2IpQJ9cIiw=",
       "mscorlib.l6md3pggqy.wasm": "sha256-jZgH0LixLeQKqaq33akQgDGhfE7vbXbHtvCId5HC0Yo=",
       "netstandard.lij9csiyuf.wasm": "sha256-DeeBl9s8G34N3IfYRQ+MoY807amodj8cvpuvUSNaWE4=",
-      "PadelM8TestApp.gstdzk1dai.wasm": "sha256-8ATm85wQiEKapX+aFpvdq8prFYkkhIYCLTMLSwlt6dA=",
+      "PadelM8TestApp.7fg5lz8tqp.wasm": "sha256-Y0NGRS0x+U40FyJvQ96kzSTjFBccKGTRlOP246e3pcE=",
       "System.AppContext.ch56s52ual.wasm": "sha256-wC6hefX/ulHEGaUYIqCLBwi7gA6hQNb0Wx8qMIV9z6s=",
       "System.Buffers.tlm3i6pt76.wasm": "sha256-MY+U3ZlBY/4EXlPMdmcAcxpQ3PtuXA/QTcWMig4lBE4=",
       "System.Collections.Concurrent.jadgrn67lq.wasm": "sha256-S34voGnBqYhqsh0kGAp9FGIPyRaYbwLbZnsMN94DxMQ=",

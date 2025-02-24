@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "+P4NUQjH",
+  "version": "2nsqWDwC",
   "assets": [
     {
       "hash": "sha256-3W8p1jHNs2SyqcpIbYEf6cfZ9Xd/U8jzjOCCrCn9Jz8=",
@@ -114,8 +114,8 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.Win32.Registry.krtg4e9rjb.wasm"
     },
     {
-      "hash": "sha256-8ATm85wQiEKapX+aFpvdq8prFYkkhIYCLTMLSwlt6dA=",
-      "url": "_framework/PadelM8TestApp.gstdzk1dai.wasm"
+      "hash": "sha256-Y0NGRS0x+U40FyJvQ96kzSTjFBccKGTRlOP246e3pcE=",
+      "url": "_framework/PadelM8TestApp.7fg5lz8tqp.wasm"
     },
     {
       "hash": "sha256-wC6hefX/ulHEGaUYIqCLBwi7gA6hQNb0Wx8qMIV9z6s=",
@@ -766,7 +766,7 @@ self.assetsManifest = {
       "url": "_framework/WindowsBase.ovqw333kan.wasm"
     },
     {
-      "hash": "sha256-ThWp9d4zU7QoBFCks7UuKlX6JV08Jfw4zoFwtUbD42c=",
+      "hash": "sha256-3xa31WyfuGta/7hZ2gKhaE2LeZQZGCm4SJdyIvpNqRo=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -774,20 +774,20 @@ self.assetsManifest = {
       "url": "_framework/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-lIFBSyH5fOmCyz9NzfVceXU09qRLS0mn0JZG0tuYWBo=",
+      "hash": "sha256-/pcrNUZIFxvVrfML8zazMdEZ+IB0TdSKqJ6mAPvV+w4=",
       "url": "_framework/dotnet.js"
     },
     {
-      "hash": "sha256-WIUiy49hHQ3kOAtRdCtUzm3Yg5BnOqCC+Q+kri9Fi1g=",
-      "url": "_framework/dotnet.native.8o8n7iomrf.js"
+      "hash": "sha256-HFADmT26AarHu4tMjFaTPxINmQjBJGtdPN+CKjtNMFE=",
+      "url": "_framework/dotnet.native.8bti36lthm.js"
     },
     {
-      "hash": "sha256-bvHGVH9zAMOjdIvgvRKP4Bg793vWpedEYSWg32uUr3o=",
-      "url": "_framework/dotnet.native.aep4lch3d1.wasm"
+      "hash": "sha256-F3/BArijJUydqmwcdWeW3LYyYHBRSu2+pyy8GL1jTV0=",
+      "url": "_framework/dotnet.native.tr0cyonrwt.wasm"
     },
     {
-      "hash": "sha256-gypqZnsxxUh4y4EJmawvOCaX4hoTaesVGwIgWXwZcNw=",
-      "url": "_framework/dotnet.runtime.rubq0v1yiy.js"
+      "hash": "sha256-82FoDmY+LsehdN2u8aSGEutGEKXJHcYaSX/3zptbsCw=",
+      "url": "_framework/dotnet.runtime.tsg4gsv2hg.js"
     },
     {
       "hash": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
