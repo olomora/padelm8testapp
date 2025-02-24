@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "PadelM8TestApp",
   "resources": {
-    "hash": "sha256-e2ymHY3M1DJTlGAivBLqJdDGbRd8mHOBEucFzJ4VW7U=",
+    "hash": "sha256-ej/dfrIg/u1sDwvfSa4xPaWrY+Mozv/vE4YJwOwjhQA=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.esv38zo127.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.Forms.aq1ir8e8pl.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
@@ -32,7 +32,7 @@
       "Microsoft.Win32.Registry.krtg4e9rjb.wasm": "Microsoft.Win32.Registry.wasm",
       "mscorlib.l6md3pggqy.wasm": "mscorlib.wasm",
       "netstandard.lij9csiyuf.wasm": "netstandard.wasm",
-      "PadelM8TestApp.apv2hwrlyd.wasm": "PadelM8TestApp.wasm",
+      "PadelM8TestApp.gstdzk1dai.wasm": "PadelM8TestApp.wasm",
       "System.AppContext.ch56s52ual.wasm": "System.AppContext.wasm",
       "System.Buffers.tlm3i6pt76.wasm": "System.Buffers.wasm",
       "System.Collections.Concurrent.jadgrn67lq.wasm": "System.Collections.Concurrent.wasm",
@@ -251,7 +251,7 @@
       "Microsoft.Win32.Registry.krtg4e9rjb.wasm": "sha256-sMbuu2+9aoI7Hg1VxqD7awy9/80c7+mSA2IpQJ9cIiw=",
       "mscorlib.l6md3pggqy.wasm": "sha256-jZgH0LixLeQKqaq33akQgDGhfE7vbXbHtvCId5HC0Yo=",
       "netstandard.lij9csiyuf.wasm": "sha256-DeeBl9s8G34N3IfYRQ+MoY807amodj8cvpuvUSNaWE4=",
-      "PadelM8TestApp.apv2hwrlyd.wasm": "sha256-AtId8yNL0Tm75cN5HmYV8BMMGmabDrYsVBjm3y7sLD0=",
+      "PadelM8TestApp.gstdzk1dai.wasm": "sha256-8ATm85wQiEKapX+aFpvdq8prFYkkhIYCLTMLSwlt6dA=",
       "System.AppContext.ch56s52ual.wasm": "sha256-wC6hefX/ulHEGaUYIqCLBwi7gA6hQNb0Wx8qMIV9z6s=",
       "System.Buffers.tlm3i6pt76.wasm": "sha256-MY+U3ZlBY/4EXlPMdmcAcxpQ3PtuXA/QTcWMig4lBE4=",
       "System.Collections.Concurrent.jadgrn67lq.wasm": "sha256-S34voGnBqYhqsh0kGAp9FGIPyRaYbwLbZnsMN94DxMQ=",
